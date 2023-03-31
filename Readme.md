@@ -1,6 +1,8 @@
 File Router API
 This is a BackEnd Server for handling file storage API endpoints. It includes functionality for downloading, uploading, and deleting files.
 
+![Overview of the Backend Flow](./Diagram.png)
+
 Installation
 Run npm install to install the dependencies.
 Usage
